@@ -1,0 +1,19 @@
+{
+  "name": "multi-step-form-main",
+  "version": "1.0.0",
+  "description": "![Design preview for the Multi-step form coding challenge](./design/desktop-preview.jpg)",
+  "main": "script.js",
+  "scripts": {
+    "commit": "git add . && git commit -m 'x' && git push"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/josepabellana/Multi-Step-From.git"
+  },
+  "author": "Josep Abellana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/josepabellana/Multi-Step-From/issues"
+  },
+  "homepage": "https://github.com/josepabellana/Multi-Step-From#readme"
+}
