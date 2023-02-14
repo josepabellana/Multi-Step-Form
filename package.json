@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/josepabellana/Multi-Step-From.git"
+    "url": "git+https://github.com/josepabellana/Multi-Step-Form.git"
   },
   "author": "Josep Abellana",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/josepabellana/Multi-Step-From/issues"
+    "url": "https://github.com/josepabellana/Multi-Step-Form/issues"
   },
-  "homepage": "https://github.com/josepabellana/Multi-Step-From#readme"
+  "homepage": "https://github.com/josepabellana/Multi-Step-Form#readme"
 }
