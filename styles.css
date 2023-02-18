@@ -37,6 +37,19 @@ body{
 }
 
 
+h1{
+    font-weight: var(--big-font-weight);
+}
+
+h2{
+    font-weight: var(--normal-font-weight);
+}
+
+h3{
+    font-weight: var(--big-font-weight);
+}
+
+
 
 
 
