@@ -82,7 +82,17 @@ h3{
     border-radius: 10px;
 }
 
+.steps__cirlce{
+    border-radius: 100%;
 
+    width: 20px;
+    height: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
 .step{
     display: flex;
 }
