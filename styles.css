@@ -34,6 +34,11 @@
 
 body{
     font-family: var(--font-fam);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: var(--Light-blue);
 }
 
 
@@ -55,6 +60,14 @@ h3{
 
 
 
+.main__form{
+    background-color: var(--White);
+    border-radius: 15px;
+    width: 1000px;
+    height: 700px;
+    display:flex;
+    padding: 20px;
+}
 
 
 
@@ -70,4 +83,4 @@ h3{
 
 
 .attribution { font-size: 11px; text-align: center; }
-    .attribution a { color: hsl(228, 45%, 44%); }
+.attribution a { color: hsl(228, 45%, 44%); }
