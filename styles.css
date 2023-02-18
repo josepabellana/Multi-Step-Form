@@ -78,23 +78,25 @@ h3{
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 30px;
     gap: 20px;
     border-radius: 10px;
 }
 
-.steps__cirlce{
+.steps__circle{
     border-radius: 100%;
-
-    width: 20px;
-    height: 20px;
+    width: 40px;
+    height: 40px;
     display: flex;
     justify-content: center;
     align-items: center;
-    
-
+    border: 1px solid var(--White);
+    color:var(--White);
 }
 .step{
     display: flex;
+    width: 100%;
+    gap: 20px;
 }
 
 
