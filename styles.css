@@ -83,7 +83,9 @@ h3{
 }
 
 
-
+.step{
+    display: flex;
+}
 
 
 
