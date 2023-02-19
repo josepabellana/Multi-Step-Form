@@ -121,6 +121,9 @@ input{
     width: 100%;
     padding: 10px;
     border: 1px solid var(--Cool-gray);
+    outline: none;
+    border-radius: 5px;
+    
 }
 button{
     position:absolute;
@@ -132,7 +135,21 @@ button{
     border-radius: 8px;
 }
 
+.plans{
+    display: flex;
+    justify-content: space-around;
 
+}
+.plan{
+    border: 1px solid var(--Cool-gray);
+    height: 175px;
+    width: 140px;
+    cursor: pointer;
+    padding: 5px;
+}
+.plan:active{
+    border: 1px solid var(--Purplish-blue);
+}
 
 .step.active {
     opacity: 1;
