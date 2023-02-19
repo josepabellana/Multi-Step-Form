@@ -72,7 +72,7 @@ h3{
 
 
 
-.main__steps{
+.main__steps-panel{
     background-image: url('assets/images/bg-sidebar-desktop.svg');
     width:250px;
     display: flex;
