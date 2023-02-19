@@ -100,9 +100,19 @@ h3{
 }
 
 
+#regForm{
+    position: relative;
+    width: 100%;
+    padding: 50px;
+}
+.main__steps-info{
+    width: 100%;
+}
 
-
-
-
+.button{
+    position:absolute;
+    bottom:10px;
+    right:10px
+}
 .attribution { font-size: 11px; text-align: center; }
 .attribution a { color: hsl(228, 45%, 44%); }
