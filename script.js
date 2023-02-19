@@ -2,6 +2,7 @@ var currentTab = 0; // Current tab is set to be the first tab (0)
 showTab(currentTab); // Display the current tab
 
 function showTab(n) {
+    console.log('Estamos en:', n)
   // This function will display the specified tab of the form ...
   var x = document.getElementsByClassName("tab");
   x[n].style.display = "block";
@@ -21,6 +22,7 @@ function showTab(n) {
 }
 
 function nextPrev(n) {
+    console.log('saltamos a:',n)
   // This function will figure out which tab to display
   var x = document.getElementsByClassName("tab");
   // Exit the function if any field in the current tab is invalid:
