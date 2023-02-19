@@ -99,6 +99,9 @@ h3{
     gap: 20px;
 }
 
+.tab {
+    display: none;
+}
 
 #regForm{
     position: relative;
