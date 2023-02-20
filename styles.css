@@ -100,11 +100,21 @@ h3 {
 .tab{
     margin-left: 40px;
 }
-.tab h1{
+.tab h1 {
+    margin-bottom: 10px;
+    color: var(--Marine-blue);
+}
+.tab h4 {
+    margin-bottom: 6px;
+    font-weight: var(--tiny-font-weight);
+    color:var(--Marine-blue);
+}
+.tab input{
     margin-bottom: 10px;
 }
-.tab p:first-child{
+.tab p{
     margin-bottom: 30px;
+    color: var(--Cool-gray)
 }
 input {
   width: 100%;
