@@ -96,11 +96,16 @@ h3 {
   height: 100%;
   padding: 50px;
 }
-.main__steps-info {
-  width: 100%;
-  height: 100%;
-}
 
+.tab{
+    margin-left: 40px;
+}
+.tab h1{
+    margin-bottom: 10px;
+}
+.tab p:first-child{
+    margin-bottom: 30px;
+}
 input {
   width: 100%;
   padding: 10px;
