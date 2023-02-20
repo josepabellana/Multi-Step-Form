@@ -32,7 +32,7 @@ body {
   justify-content: center;
   align-items: center;
   flex-direction: column;
-  background-color: var(--Light-blue);
+  background-color: var(--Magnolia);
 }
 
 button {
@@ -58,6 +58,7 @@ h3 {
   height: 600px;
   display: flex;
   padding: 20px;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
 }
 
 .main__steps-panel {
@@ -114,7 +115,11 @@ h3 {
 .tab input{
     margin-bottom: 10px;
     font-weight: var(--big-font-weight);
-    font-size: 16px;
+    font-size: var(--normal-font-size);
+    color:var(--Marine-blue);
+}
+.tab input::placeholder{
+    color:var(--Light-gray)
 }
 .tab p{
     margin-bottom: 30px;
