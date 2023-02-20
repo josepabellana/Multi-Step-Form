@@ -160,6 +160,7 @@ button{
   /* Mark the steps that are finished and valid: */
   .steps__circle.finish {
     background-color: var(--Light-blue);
+    color: black
   }
 
 
