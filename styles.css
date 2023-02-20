@@ -158,8 +158,8 @@ button{
   }
   
   /* Mark the steps that are finished and valid: */
-  .step-circle.finish {
-    background-color: #04AA6D;
+  .steps__circle.finish {
+    background-color: var(--Light-blue);
   }
 
 
