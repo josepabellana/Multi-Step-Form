@@ -50,11 +50,10 @@ button {
   background-color: var(--Marine-blue);
   padding: 12px;
   border-radius: 8px;
-}
-button {
   border: 0px;
   cursor: pointer;
 }
+
 h1 {
   font-weight: var(--big-font-weight);
 }
