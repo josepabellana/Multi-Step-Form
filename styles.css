@@ -113,6 +113,7 @@ h3 {
     color:var(--Marine-blue);
 }
 .tab input{
+    max-width: 100%;
     margin-bottom: 10px;
     font-weight: var(--big-font-weight);
     font-size: var(--normal-font-size);
