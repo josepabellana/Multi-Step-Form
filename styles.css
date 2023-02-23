@@ -146,6 +146,7 @@ h3 {
 }
 .billing__type{
   background-color: var(--Alabaster);
+  padding: 15px;
   margin-top: 30px;
   display:flex; 
   justify-content: center; 
