@@ -145,7 +145,12 @@ h3 {
     color: var(--Cool-gray)
 }
 .billing__type{
+  background-color: var(--Alabaster);
   margin-top: 30px;
+  display:flex; 
+  justify-content: center; 
+  align-items: center;
+
 }
 
 .plans {
