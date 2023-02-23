@@ -36,7 +36,6 @@ body {
 }
 
 input {
-  max-width: 100%;
   padding: 15px;
   border: 0.5px solid var(--Light-gray);
   outline: none;
@@ -127,12 +126,16 @@ h3 {
     font-weight: var(--tiny-font-weight);
     color:var(--Marine-blue);
 }
-.tab input{
+.main__steps-info input{
     min-width: 100%;
     margin-bottom: 10px;
     font-weight: var(--big-font-weight);
     font-size: var(--normal-font-size);
     color:var(--Marine-blue);
+}
+.main__steps-plan input{
+  max-width: 100px;
+  height: 30px;
 }
 .tab input::placeholder{
     color:var(--Light-gray)
