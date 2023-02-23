@@ -144,7 +144,9 @@ h3 {
     margin-bottom: 30px;
     color: var(--Cool-gray)
 }
-
+.billing__type{
+  margin-top: 30px;
+}
 
 .plans {
   display: flex;
