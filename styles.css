@@ -200,19 +200,19 @@ h3 {
   display: flex;
   justify-content: space-between;
   align-items: center;
-  
+  padding: 30px;
+  border-radius: 1px solid var(--Purplish-blue);
 }
 .addons-select p{
   margin: 0px;
+}
+.addons-select:hover{
+  background-color: var(--Pastel-blue);
 }
 .addon{
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  padding: 30px;
-  border-radius: 1px solid var(--Purplish-blue);
-}
-.addon:hover{
-  background-color: var(--Pastel-blue);
+  
 }
