@@ -201,3 +201,8 @@ h3 {
   justify-content: space-between;
   align-items: center;
 }
+.addon{
+  display: flex;
+  flex-direction: column;
+  
+}
