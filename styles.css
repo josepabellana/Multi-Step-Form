@@ -208,13 +208,16 @@ h3 {
 .addons-select p{
   margin: 0px;
 }
+.addons-select input {
+  
+}
 .addons-select:hover{
   background-color: var(--Pastel-blue);
 }
-.addon{
+.addon-text{
   display: flex;
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  
 }
+
