@@ -214,6 +214,7 @@ h3 {
   width: 20px;
 }
 .addons-select:hover{
+  cursor: pointer;
   background-color: var(--Pastel-blue);
 }
 .addon-text{
