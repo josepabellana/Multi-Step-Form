@@ -209,7 +209,7 @@ h3 {
   margin: 0px;
 }
 .addons-select input {
-  
+  background-color: var(--Purplish-blue);
 }
 .addons-select:hover{
   background-color: var(--Pastel-blue);
